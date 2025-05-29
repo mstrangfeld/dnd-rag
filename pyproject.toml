@@ -5,6 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipywidgets>=8.1.7",
+    "jupyter>=1.1.1",
+    "lancedb>=0.22.1",
+    "langchain>=0.3.25",
+    "langchain-community>=0.3.21",
+    "langchain-huggingface>=0.2.0",
     "mkdocs>=1.6.1",
     "mkdocs-material>=9.6.14",
+    "polars>=1.30.0",
+    "pylance>=0.28.0",
+    "sentence-transformers>=4.1.0",
+    "tantivy>=0.24.0",
 ]

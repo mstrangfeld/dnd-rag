@@ -6,7 +6,5 @@
             "source.organizeImports": "explicit"
         }
     },
-    "ruff.interpreter": [
-        "${workspaceFolder}/.venv/bin/python"
-    ],
+    "notebook.formatOnSave.enabled": true
 }
