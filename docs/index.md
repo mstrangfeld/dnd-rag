@@ -5,6 +5,8 @@
 
 ---
 
+![header image](assets/header.webp)
+
 ## Welcome to the D&D RAG Research Project
 
 This comprehensive project explores advanced **Retrieval-Augmented Generation (RAG)** techniques applied to Dungeons & Dragons content, including rulebooks, lore, and game mechanics. Our goal is to create an intelligent D&D assistant capable of understanding complex queries about game rules, character mechanics, and strategic gameplay.

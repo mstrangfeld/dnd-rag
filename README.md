@@ -1,5 +1,7 @@
 # D&D RAG Exploration
 
+![header image](docs/assets/header.webp)
+
 A comprehensive project exploring advanced Retrieval-Augmented Generation (RAG) techniques applied to Dungeons & Dragons content, including rulebooks, lore, and game mechanics.
 
 ## Table of Contents
