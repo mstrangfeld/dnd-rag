@@ -1,4 +1,7 @@
-# D&D RAG Exploration
+<div align="center">
+  <h1>🐉 Dungeons & Dragons RAG Exploration 🎲</h1>
+  <p><em>Exploring RAG techniques to create intelligent D&D assistants</em></p>
+</div>
 
 ![header image](docs/assets/header.webp "🎨 Generated with FLUX.1-dev. Prompt: A mystical digital landscape featuring an ancient wizard's tower with glowing magical circuits and data streams flowing around it like arcane energy. Fantasy meets AI research aesthetic.")
 
