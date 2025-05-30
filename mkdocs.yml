@@ -84,6 +84,8 @@ extra:
       link: https://x.com/strangfeld_io
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/mstrangfeld.bsky.social
+    - icon: simple/huggingface
+      link: https://huggingface.co/mstrangfeld
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/marvin-strangfeld
 
