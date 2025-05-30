@@ -1,3 +1,83 @@
-site_name: DnD RAG
+site_name: D&D RAG Exploration
+site_description: Advanced Retrieval-Augmented Generation techniques for Dungeons & Dragons content
+site_author: Marvin Strangfeld
+site_url: https://mstrangfeld.github.io/dnd-rag
+
+repo_name: mstrangfeld/dnd-rag
+repo_url: https://github.com/mstrangfeld/dnd-rag
+
 theme:
   name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+    view: material/eye
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Contributing: contributing.md
+  - Legal: legal.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - git-revision-date-localized
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mstrangfeld
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/marvin-strangfeld
+
+copyright: Copyright &copy; 2025 Marvin Strangfeld
