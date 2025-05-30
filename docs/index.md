@@ -5,7 +5,7 @@
 
 ---
 
-![header image](assets/header.webp)
+![header image](assets/header.webp "🎨 Generated with FLUX.1-dev. Prompt: A mystical digital landscape featuring an ancient wizard's tower with glowing magical circuits and data streams flowing around it like arcane energy. Fantasy meets AI research aesthetic.")
 
 ## Welcome to the D&D RAG Research Project
 

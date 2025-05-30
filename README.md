@@ -1,6 +1,6 @@
 # D&D RAG Exploration
 
-![header image](docs/assets/header.webp)
+![header image](docs/assets/header.webp "🎨 Generated with FLUX.1-dev. Prompt: A mystical digital landscape featuring an ancient wizard's tower with glowing magical circuits and data streams flowing around it like arcane energy. Fantasy meets AI research aesthetic.")
 
 A comprehensive project exploring advanced Retrieval-Augmented Generation (RAG) techniques applied to Dungeons & Dragons content, including rulebooks, lore, and game mechanics.
 
