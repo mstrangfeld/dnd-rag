@@ -78,6 +78,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mstrangfeld
+    - icon: fontawesome/brands/mastodon
+      link: https://chaos.social/@mstrangfeld
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/strangfeld_io
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/mstrangfeld.bsky.social
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/marvin-strangfeld
 
