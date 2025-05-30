@@ -540,7 +540,7 @@ dependencies = [
     { name = "tantivy" },
 ]
 
-[package.optional-dependencies]
+[package.dev-dependencies]
 docs = [
     { name = "mkdocs" },
     { name = "mkdocs-git-revision-date-localized-plugin" },
@@ -555,16 +555,19 @@ requires-dist = [
     { name = "langchain", specifier = ">=0.3.25" },
     { name = "langchain-community", specifier = ">=0.3.21" },
     { name = "langchain-huggingface", specifier = ">=0.2.0" },
-    { name = "mkdocs", marker = "extra == 'docs'", specifier = ">=1.6.1" },
-    { name = "mkdocs-git-revision-date-localized-plugin", marker = "extra == 'docs'", specifier = ">=1.4.7" },
-    { name = "mkdocs-material", marker = "extra == 'docs'", specifier = ">=9.6.14" },
     { name = "polars", specifier = ">=1.30.0" },
     { name = "pydantic-ai", specifier = ">=0.2.12" },
     { name = "pylance", specifier = ">=0.28.0" },
     { name = "sentence-transformers", specifier = ">=4.1.0" },
     { name = "tantivy", specifier = ">=0.24.0" },
 ]
-provides-extras = ["docs"]
+
+[package.metadata.requires-dev]
+docs = [
+    { name = "mkdocs", specifier = ">=1.6.1" },
+    { name = "mkdocs-git-revision-date-localized-plugin", specifier = ">=1.4.7" },
+    { name = "mkdocs-material", specifier = ">=9.6.14" },
+]
 
 [[package]]
 name = "eval-type-backport"

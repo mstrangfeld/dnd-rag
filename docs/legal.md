@@ -35,6 +35,7 @@ This is an independent research project that uses publicly available content und
 ### Research and Educational Use
 
 This project is created for:
+
 - **Academic research** in artificial intelligence and natural language processing
 - **Educational purposes** to advance understanding of RAG techniques
 - **Open source development** to benefit the broader AI community
@@ -55,12 +56,14 @@ For a complete list of dependencies, see the `pyproject.toml` file.
 ### For Researchers and Developers
 
 You are free to:
+
 - **Use** this code for research and educational purposes
 - **Modify** the code for your own projects
 - **Distribute** modified versions under the same license
 - **Contribute** improvements back to the project
 
 You must:
+
 - **Maintain** proper attribution to original authors
 - **Include** the Apache License 2.0 in any distributions
 - **Respect** the Creative Commons license for D&D content
@@ -69,6 +72,7 @@ You must:
 ### For Content Creators
 
 If you create D&D content using this project:
+
 - **Attribute** the SRD content properly
 - **Follow** Creative Commons Attribution 4.0 requirements
 - **Don't claim** ownership of SRD material
@@ -76,6 +80,7 @@ If you create D&D content using this project:
 
 ### For DMCA or Copyright Issues
 If you believe any content infringes on your copyright:
+
 - **Contact** the project maintainer directly
 - **Provide** specific details about the alleged infringement
 - **Include** your contact information and a good faith statement
