@@ -9,6 +9,8 @@
     pkgs.zlib
     pkgs.python312Packages.pandas
     pkgs.cairo
+    pkgs.just
+    pkgs.jupyter
   ];
 
   languages.python = {
