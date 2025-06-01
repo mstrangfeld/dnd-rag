@@ -1,4 +1,4 @@
-# Naive RAG with LangGraph
+# Traditional RAG with LangGraph
 
 Welcome to your first hands-on exploration of **Retrieval-Augmented Generation (RAG)** using one of the most popular AI frameworks available today!
 

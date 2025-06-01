@@ -43,8 +43,7 @@ nav:
   - Home: index.md
   - Research:
     - Overview: research/index.md
-    - Engineering:
-      - Naive RAG with LangGraph: research/engineering/00_naive-rag/langgraph.md
+    - Traditional RAG with LangGraph: research/00_traditional-rag/langgraph.md
   - Contributing: contributing.md
   - Legal: legal.md
 markdown_extensions:
