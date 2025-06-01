@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/contributing/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/legal/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/research/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/research/00_traditional-rag/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+         <loc>https://mstrangfeld.github.io/dnd-rag/research/00_traditional-rag/langgraph/</loc>
+         <lastmod>2025-06-01</lastmod>
+    </url>
+</urlset>
