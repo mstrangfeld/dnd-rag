@@ -27,5 +27,5 @@ docs = [
 
 [tool.uv.workspace]
 members = [
-    "research/engineering/00_naive-rag",
+    "research/*",
 ]

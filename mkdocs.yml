@@ -28,6 +28,7 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.indexes
     - search.highlight
     - content.code.copy
     - content.code.annotate
@@ -42,8 +43,10 @@ theme:
 nav:
   - Home: index.md
   - Research:
-    - Overview: research/index.md
-    - Traditional RAG with LangGraph: research/00_traditional-rag/langgraph.md
+    - research/index.md
+    - Traditional RAG:
+      - research/00_traditional-rag/index.md
+      - LangGraph Implementation: research/00_traditional-rag/langgraph.md
   - Contributing: contributing.md
   - Legal: legal.md
 markdown_extensions:

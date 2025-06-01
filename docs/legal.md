@@ -88,6 +88,7 @@ If you believe any content infringes on your copyright:
 ## 🔄 License Updates
 
 This license information is current as of the last update to this documentation. License terms may be updated to:
+
 - Reflect changes in dependency licensing
 - Address new legal requirements
 - Improve clarity and compliance
